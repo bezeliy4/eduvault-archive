@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-845-eduvault-implement-historical-trend-aggregation",
+    "fix/issue-841-eduvault-build-operational-health-report-for",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-845-eduvault-implement-historical-trend-aggregation": "main",
+    "fix/issue-841-eduvault-build-operational-health-report-for": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-845-eduvault-implement-historical-trend-aggregation",
+    "fix/issue-841-eduvault-build-operational-health-report-for",
+    "origin"
+  ]
+}
